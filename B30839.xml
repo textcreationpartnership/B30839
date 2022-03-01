@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The travels of the Patriarchs.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B30839</idno>
+            <idno type="STC">Wing T2056</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[39]</idno>
+            <idno type="STC">ESTC R222963</idno>
+            <idno type="EEBO-CITATION">99885380</idno>
+            <idno type="PROQUEST">ocm99885380</idno>
+            <idno type="VID">201313</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B30839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201313)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[49])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The travels of the Patriarchs.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Miller at the Gilded Acorn in St. Paul's Church-Yard, near the little North-Door,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Printed in double columns.</note>
+                  <note>With a two-line bookseller's advertisement at foot.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patriarchs (Bible) --  Travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201313:1" rendition="simple:additions"/>
+            <head>The Travels of the Patriarchs.</head>
+            <div type="part">
+               <head>The TRAVELS of <hi>ABRAHAM.</hi>
+               </head>
+               <p n="1">1. <hi>ABraham</hi> went out of his own Country of <hi>
+                     <g ref="char:V">Ʋ</g>r</hi> in <hi>Chaldea</hi> to the City of <hi>Ha<g ref="char:EOLhyphen"/>ran</hi> in <hi>Meſopotamia,</hi> which is three hundred ſeventy ſix miles. 2. From <hi>Ha<g ref="char:EOLhyphen"/>ran,</hi> at the Command of God he went to <hi>Sichem,</hi> which is four hundred miles. 3. From <hi>Sichem</hi> he went to the Plain and Wood of <hi>Mamre</hi> to the Hill between <hi>Bethel</hi> and <hi>Hay,</hi> which is twenty eight Miles. 4. From thence he went into <hi>Aegypt,</hi> Travelling Southward two hundred forty Miles. 5. Out of <hi>Aegypt</hi> he went again into <hi>Canaan,</hi> to the Hill that lieth between <hi>Bethel</hi> and <hi>Hay,</hi> which is two hundred and forty Miles. 6. From thence he went to the Plain of <hi>Mamre</hi> near <hi>Hebron,</hi> thirty two Miles. 7. From the Plain of <hi>Mamre</hi> he went to <hi>Dan,</hi> which is an hundred twenty four Miles, and there overthrew the four Kings which had taken <hi>Lot</hi> Priſoner. <hi>Gen.</hi> 14.8. He purſued the Enemy for the ſpace of Eighty Miles, to <hi>Hebam</hi> in <hi>Phae<g ref="char:EOLhyphen"/>nicia,</hi> which lyeth on the left ſide of <hi>Damaſco, Gen.</hi> 14.9. From <hi>Phaenicia,</hi> he went to <hi>Sodom,</hi> where <hi>Melchiſedech</hi> met him, which is one hundred ſixty Miles. <hi>Gen.</hi> 14.10. From <hi>Sodom</hi> he went back again to the Plain of <hi>Mamre,</hi> which are forty Miles. 11. From the Plain of <hi>Mamre</hi> he went to <hi>Gerar,</hi> which is ſix miles, where his Son <hi>Iſaac</hi> was born, <hi>Gen.</hi> 20.21.12. From <hi>Gerar,</hi> he went to <hi>Beerſheba,</hi> which is twelve Miles, where he took an Oath of King <hi>Abimelech.</hi> 13. From <hi>Beerſheba,</hi> he went to Moont <hi>Moriah</hi> which is forty Miles, where he would have Offered his Son <hi>Iſaac, Gen.</hi> 22.14. From Mount <hi>Mori<g ref="char:EOLhyphen"/>ah</hi> he returned again to <hi>Beerſheba,</hi> which is forty Miles. 15. From <hi>Beerſheba,</hi> he and his Wife went to the Plain of <hi>Mamre</hi> by <hi>Hebron,</hi> which is ſixteen miles, and there they dyed and were buried. <hi>Gen.</hi> 23. and 25. So that all the Travels of Faithful <hi>Abraham</hi> the Patriarch, were one thouſand ſeven hundred ninety four Miles.</p>
+            </div>
+            <div type="part">
+               <head>The TRAVELS of <hi>LOT.</hi>
+               </head>
+               <p n="1">1. <hi>LOT</hi> Travelled with <hi>Abraham</hi> from <hi>
+                     <g ref="char:V">Ʋ</g>r</hi> in <hi>Chaldea</hi> to <hi>Haran</hi> in <hi>Meſopotamia,</hi> which is three hundred thirty ſix Miles. <hi>Gen.</hi> 12. 2. From <hi>Haran</hi> they Travelled to <hi>Sichem,</hi> in the Land of <hi>Canaan,</hi> which are four hundred Miles. 3. From <hi>Sichem,</hi> they Tra<g ref="char:EOLhyphen"/>velled through <hi>Moriah,</hi> to the Hill lying between <hi>Bethel</hi> and <hi>Hay,</hi> which is twenty four Miles. 4. From the Hill between <hi>Bethel</hi> and <hi>Hay,</hi> they went into <hi>Aegypt,</hi> which is two hundred forty Miles. <hi>Gen.</hi> 13. 5. From <hi>Aegypt</hi> they went into the Land of <hi>Canaan,</hi> to the Hill lying between <hi>Bethel</hi> and <hi>Hay,</hi> where <hi>Abraham</hi> had formerly dwelt, two hundred and forty Miles. <hi>Gen.</hi> 13. 6. From the Hill between <hi>Bethel</hi> and <hi>Hay, Lot</hi> ſeparated himſelf from <hi>Abraham,</hi> and went to the Town of <hi>Sodom</hi> Eaſtward, which is Twenty Eight Miles. <hi>Gen.</hi> 13. 7. In <hi>Sodom, Lot</hi> was taken Priſoner, He and all his Houſhold, and led away to the Town of <hi>Pan,</hi> which is thirty two Miles. <hi>Gen.</hi> 14. 8. And when <hi>Abraham</hi> had delivered him out of the hands of his Enemies, and purſued them, he returned with him from <hi>Dan</hi> to <hi>Hobam</hi> in <hi>Phaenicia,</hi> lying on the left ſide of <hi>Damaſcus,</hi> which is Eighty Miles. 9. From <hi>Phaenicia, Abraham</hi> came again with <hi>Lot</hi> unto <hi>Sodom,</hi> which is one hundred and ſixty Miles. 10. Laſtly, When the Lord had determined to Rain Fire and Brimſtone upon <hi>Sodom, Lot,</hi> according to God's Command, went thence to <hi>Zoar,</hi> &amp;c. <hi>Luther</hi> ſaith, that <hi>Abraham</hi> took <hi>Lot</hi> to <hi>Hebron</hi> with him to comfort him, and there he died. <hi>Hebron</hi> is thirty ſix Miles from <hi>Sodom.</hi> So that all the Travels of Righteous <hi>Lot</hi> were one thouſand ſix hundred fifty and two miles.</p>
+            </div>
+            <div type="part">
+               <head>The TRAVELS of <hi>ISAAC.</hi>
+               </head>
+               <p n="1">1. I <hi>Sare</hi> being young, went with his Father <hi>Abraham</hi> from <hi>Beerſheba,</hi> to Mount <hi>Moriah,</hi> where his Father would have offered him unto God, as the Lord Commanded him, which is forty Miles. 2. From thence, with his Father, he returned to <hi>Beerſheba,</hi> which is forty Miles. 3. From <hi>Beerſheba,</hi> he travelled with his Father to <hi>Hebron,</hi> by the Plain of <hi>Mamre,</hi> which is ſixteen Miles. 4. From the Plain of <hi>Mamre, Iſaac</hi> travelled Southward to the Fountain of Life, which is ſixteen Miles, and there he dwelt, <hi>Gen.</hi> 24. 5. From thence he returned back again to his Fathers Burial, who was laid in that double Cave in <hi>Mamre,</hi> which was ſixteen Miles. 6. From thence he returned back again to the Well of Life, where he dwelt, ſixteen Miles. 7. From the Fountain of Life, he went to the Well of <hi>Gerar,</hi> which is eight Miles; where <hi>Abimelech,</hi> ſeeing the beauty of his Wife <hi>Rebeccah,</hi> would have Raviſh'd her, and for fear, he told him ſhe was his Siſter, <hi>Gen.</hi> 26. 8. From <hi>Gerar, Iſaac</hi> went Weſtward to the Valley of <hi>Gerar,</hi> which is Eight Miles, and there he cauſed the Well to be digged up again, which the Inhabitants had ſtopt up. 9. From thence he went to <hi>Beerſheba,</hi> which is four Miles; where the ſame Night the Lord appeared unto him, <hi>Gen.</hi> 26. 10. From <hi>Beerſheba</hi> he returned again to <hi>Hebron</hi> by the Plain of <hi>Mamre,</hi> which is Sixteen Miles: Here <hi>Abraham, Sarah,</hi> and <hi>Rebeccah</hi> died, and were buried, <hi>Gen.</hi> 35. So all the Travels of the Patriarch <hi>Iſaac,</hi> were one hundred forty Eight Miles.</p>
+            </div>
+            <div type="part">
+               <head>The TRAVELS of <hi>JACOB.</hi>
+               </head>
+               <p n="1">1. FRom <hi>Beerſheba Jacob</hi> went to <hi>Bethel,</hi> which is Forty Eight Miles, and there he ſaw a Ladder that reached down from Heaven, whereby the Angels Aſcended and De<g ref="char:EOLhyphen"/>ſcended, <hi>Gen.</hi> 28. 2. From <hi>Bethel</hi> he went to <hi>Haran</hi> in <hi>Meſopotamia,</hi> which is Four Hundred Thirty Two Miles; where he married <hi>Leah</hi> and <hi>Rachel, Gen.</hi> 28. 3. From <hi>Ha<g ref="char:EOLhyphen"/>ran</hi> in <hi>Meſopotamia,</hi> he went to Mount <hi>Gilead,</hi> which is Three Hundred Eighty Miles; and when <hi>Laban</hi> purſued him (at the Command of God) he made a League with him, <hi>Gen.</hi> 31. 4 From Mount <hi>Gilead</hi> he went to <hi>Mahanaim,</hi> which is Sixteen Miles; and there he met with the Angels of God, <hi>Gen.</hi> 31. 5. From <hi>Mahanaim</hi> he paſſed the water, and went to <hi>Penuel,</hi> which is Four Miles, and there he Wreſtled with the Angel of God, <hi>Gen.</hi> 32. 6. From <hi>Penuel</hi> he went to <hi>Succoth,</hi> where he pitched his Tents, Two Miles, <hi>Gen.</hi> 33. 7. From <hi>Succoth</hi> he paſſed the River of <hi>Jordan,</hi> and went to <hi>Sichem,</hi> not far from <hi>Salem</hi> (about Eight Miles) where his Daughter <hi>Dinah</hi> was Raviſhed, <hi>Gen.</hi> 33. 8. From thence he went to <hi>Bethel,</hi> which is Eight and Twenty Miles, <hi>Gen.</hi> 33. 9. From <hi>Bethel,</hi> he went to <hi>Bethlehem Euphrata,</hi> which is Twelve Miles; in which way <hi>Rachel</hi> dyed, and was buried not far from <hi>Bethlehem:</hi> Then <hi>Jacob</hi> went forward, and ſet up his Tents near to the Tower of <hi>Eder,</hi> a Mile from <hi>Bethlehem</hi> towards the South, <hi>Gen.</hi> 35. 10. From <hi>Bethlchem Eu<g ref="char:EOLhyphen"/>phrata</hi> and the Tower of <hi>Eder</hi> he returned again to the valley of <hi>Mamre</hi> near <hi>Hebron</hi> to his Father <hi>Iſaac,</hi> which is Twenty Miles, <hi>Gen.</hi> 35. 11. From <hi>Hebron</hi> he went to <hi>Beerſheba,</hi> which is Sixteen Miles, <hi>Gen.</hi> 38. 12. From <hi>Beerſheba,</hi> he went to the Town of <hi>Ony,</hi> a little off <hi>Ae<g ref="char:EOLhyphen"/>gypt</hi> in the Land of <hi>Goſhen,</hi> which is One Hundred Sixty Eight Miles. where <hi>Joſeph</hi> his Son gave him Honourable Entertainment, <hi>Gen.</hi> 4.8 13. From <hi>Ony</hi> he went to the City <hi>Zoan,</hi> which is alſo called <hi>Tanis,</hi> Twenty Eight Miles, where he was preſented to King <hi>Pharaoh, Gen.</hi> 4. 14. From <hi>Tanis</hi> he returned to <hi>Ony,</hi> which is Twenty Eight Miles, and there he dwelt and died in the Land of <hi>Goſhen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The TRAVELS of the Patriarch <hi>JUDAH.</hi>
+               </head>
+               <p n="1">1. <hi>J<g ref="char:V">Ʋ</g>dah</hi> Travelled from <hi>Sichem,</hi> where <hi>Jacob</hi> dwelt, to the Town of <hi>Odulla,</hi> Forty and Four Miles, where he married <hi>Schuah,</hi> the Daughter of <hi>Chananei.</hi> 2. From thence he went to <hi>Timnah</hi> to ſhear his Sheep, Six Miles, <hi>&amp;c.</hi> 3. Afterward he went twice with his Brethren into <hi>Aegypt</hi> to buy Corn at <hi>Zoan,</hi> where <hi>Joſeph</hi> at that time was; for the Famine was very great round about. So that reckoning his Journey twice to and again, it amounted to Eight Hundred Twenty and Two Miles. Laſtly, he returned again with his Father and his Bro<g ref="char:EOLhyphen"/>ther into <hi>Aegypt,</hi> Two Hundred and Eighty Miles.</p>
+            </div>
+            <div type="part">
+               <head>The TRAVELS of the Patriarch <hi>JOSEPH.</hi>
+               </head>
+               <p n="1">1. WHen <hi>Joſeph</hi> was ſent from <hi>Hebron</hi> by his Father <hi>Jacob,</hi> be went to <hi>Sechem</hi> to ſeek his Brothers, Sixty Miles. 2. From thence he went to <hi>Dothan,</hi> Four Miles, where by his Brothers he was thrown into a Pit, and after ſold to the <hi>Iſhmaelites, Gew</hi> 37. 3. From <hi>Dothan</hi> he was carried to <hi>Tanis</hi> in <hi>Aegypt,</hi> and there ſold to <hi>Potiphar, Tharaoh</hi>'s Chief Steward, Two Hundred Seventy Miles. 4. From <hi>Tanis</hi> he went to meet his Father in the Land of <hi>Goſhen,</hi> which is Twenty Eight Miles. <hi>Gen.</hi> 46. 5. From thence he turned back again to <hi>Ta<g ref="char:EOLhyphen"/>nis,</hi> and preſented his Father and Brethren to <hi>Pharaoh,</hi> which is Twenty Eight Miles. 6. From thence he went back to <hi>Ony,</hi> to ſee his Father, who was now Sick unto Death, there he received his bleſſing, and cloſed his Eyes, this was Twenty Eight Miles. 7. From thence he returned back again to <hi>Tanis,</hi> Twenty Eight Miles. 8. From <hi>Tanis</hi> he went back to <hi>Ony,</hi> with a great Company of Horſes and Chariots, preparing an Honourable Funeral for his Father, this being Twenty Eight Miles. 9. From <hi>Ony</hi> he went to <hi>Atad,</hi> which lies upon the further ſide of <hi>Jor<g ref="char:EOLhyphen"/>dan,</hi> towards the Eaſt, which is Two Hundred Forty Miles; where he made a great Lamentation for his Father ſeven days, <hi>Gen.</hi> 50. 10. From <hi>Atad</hi> he went to <hi>Hebron</hi> the <hi>Metropolis</hi> of the Tribe of <hi>Judah,</hi> near to which ſtood the double Cave in the Valley of <hi>Mamre,</hi> where <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> was buried, which was Forty Miles. 11. From thence to <hi>Heliopolis,</hi> 2 City of the <hi>Aegy<g ref="char:EOLhyphen"/>ptians,</hi> where <hi>Joſeph</hi> ſet up a ſtately Academy for all <hi>Aegypt,</hi> which was Two Hundred Miles. 12. From thence he went to <hi>Tanis</hi> or <hi>Zoan,</hi> which was the Chief Defence and <hi>Metropolitan</hi> City of all <hi>Aegypt,</hi> accounted Six Miles. So all the Travels of <hi>Joſeph</hi> was One Thouſand Nine Hun<g ref="char:EOLhyphen"/>dred Sixty Two Miles.</p>
+            </div>
+            <div type="part">
+               <head>The TRAVELS of <hi>MOSES.</hi>
+               </head>
+               <p n="1">1. AT Forty Years Old he fled out of <hi>Aegypt</hi> into the Land of <hi>Midian,</hi> One Hundred and Eighty Miles, <hi>Exod.</hi> 3. 2. From thence he went to Mount <hi>Sinai</hi> or <hi>Horeb,</hi> Sixty Four Miles, <hi>Exod.</hi> 3. 3. From Mount <hi>Horeb</hi> he returned to <hi>Midian,</hi> ſixty five miles; <hi>Exod.</hi> 4. 4. From <hi>Midian</hi> he went to <hi>Tanis</hi> in <hi>Aegypt,</hi> one hundred eighty miles, <hi>Exod.</hi> 12. 5. From thence to <hi>Ramaſes,</hi> forty eight miles, <hi>Ex.</hi> 12. 6. From thence to <hi>Succoth,</hi> eight miles, <hi>Exod.</hi> 13. <hi>Num.</hi> 33. 7. From thence to <hi>Eltham,</hi> eight miles. 8. From thence to <hi>Ha<g ref="char:EOLhyphen"/>hiroth,</hi> ſixteen miles, <hi>Num.</hi> 33. 9. From thence through the Red Sea, and three days through the Wilderneſs to <hi>Marah,</hi> forty miles, <hi>Exod.</hi> 15. 10. From <hi>Marah</hi> to <hi>Elim,</hi> eight miles, <hi>Exod.</hi> 16. 11. From <hi>Elim</hi> towards the South by the Red Sea, ſix miles, <hi>Num.</hi> 33. 12. From the Red Sea to the Wilderneſs of <hi>Zin,</hi> ſixteen miles. 13. From thence to <hi>Daphea,</hi> twelve miles, <hi>Num.</hi> 33. 14. From thence to <hi>Alus,</hi> twelve miles. 15. From thence to <hi>Raphi<g ref="char:EOLhyphen"/>dim,</hi> eight miles, <hi>Exod.</hi> 27. 16. From thence to Mount <hi>Sinai</hi> which is eight miles, <hi>Exod.</hi> 19. 17. Thence to the Graves of Luſt, where <hi>Iſrael</hi> murmured, eight miles, <hi>Num</hi> 11. 18. Thence to <hi>Hazaroth,</hi> which is eight miles, <hi>Numb.</hi> 12. 19. Thence to <hi>Rithma,</hi> eight miles, <hi>Num.</hi> 33. 20. Thence to <hi>Remon Parets,</hi> ſix miles, <hi>Num.</hi> 33. 21. Thence to <hi>Libanen,</hi> ſix miles. 22. Thence to <hi>Riſa,</hi> ſix miles. 23. Thence to <hi>Rehelatha,</hi> ſix miles. 24. Thence to the Hill of <hi>Sephar,</hi> four miles. 25. Thence to <hi>Harida,</hi> four miles and a half <hi>Num.</hi> 33. 26. Thence to <hi>Maccheloth,</hi> four miles, <hi>Num.</hi> 33. 27. Thence to <hi>Thahath,</hi> four miles. 28. Thence to <hi>Thara,</hi> four miles. 29. Thence to <hi>Mithka,</hi> four miles. 30. Thence to <hi>Caſmona,</hi> eight miles. 31. Thence to <hi>Miſcroth,</hi> thirty two miles, <hi>Num.</hi> 33. 32. Thence to <hi>Bneiaccon,</hi> twenty four miles. 33. Thence to the Mount <hi>Gidgad,</hi> twenty miles. 34. Thence to <hi>Jot<g ref="char:EOLhyphen"/>batha,</hi> twenty four miles. 35. Thence to <hi>Ebrona,</hi> twenty miles, <hi>Num.</hi> 33. 36. Thence to <hi>Eziongaber,</hi> twenty eight miles. 37. Thence to the Wilderneſs of <hi>Zin-Kades,</hi> forty eight miles. 38. Thence to Mount <hi>Hor,</hi> forty eight miles. 39. Thence to <hi>Salmona</hi> twenty eight miles. 40. Thence to <hi>Phunon,</hi> twenty miles. 41. Thence to <hi>Oboth,</hi> twenty four miles. 42. Thence to <hi>Igim</hi> upon the Hill <hi>Abarim,</hi> ſixteen miles. 43. Thence to <hi>Dibon Gad,</hi> ſix<g ref="char:EOLhyphen"/>teen miles. 44. Thence to <hi>Almon Diblathaim,</hi> ſixteen miles. 45. Thence to the Hill <hi>Abarim,</hi> ſixteen miles. 46. Thence over the River of <hi>Arnon</hi> to <hi>Jackri,</hi> ſixteen miles. <hi>Numb.</hi> 21. 47. Thence to <hi>Heſhbon,</hi> four miles. 48. Thence to <hi>Jaezer,</hi> eight miles. 49. Thence to <hi>Edrei,</hi> twelve miles. 50. Thence to Mount <hi>Libanus,</hi> fifty ſix miles. 51. Thence back forty miles to the field of the <hi>Moabites, Deut.</hi> 34. So all the Travels of <hi>Moſes</hi> were one thouſand four hundred twenty four miles.</p>
+            </div>
+            <div type="part">
+               <head>The Prophet <hi>BALAAM</hi>'S TRAVELS.</head>
+               <p>THis Prophet travelled from <hi>Pithora</hi> or <hi>Phatura</hi> in <hi>Meſopotamia,</hi> to <hi>Abel,</hi> or the Plain of <hi>Vines,</hi> where his Aſs ſpake, <hi>Numb.</hi> 22. which is four hundred miles. From thence he went to the Land of <hi>Moabites,</hi> forty miles, where in the Mount of <hi>Peor</hi> he bleſſed the Children of <hi>Iſrael.</hi> So all the Travels of this Prophet was four hundred forty miles.</p>
+            </div>
+            <div type="part">
+               <head>The TRAVELS of <hi>JOSHUA.</hi>
+               </head>
+               <p n="1">1. <hi>JOſhua</hi> travelled with <hi>Moſes</hi> from <hi>Ramaſes,</hi> out of <hi>Aegypt</hi> through the Red Sea, and came to <hi>Cades-Barnea,</hi> two hundred ſixty eight miles. 2. From thence <hi>Joſhua</hi> was ſent forth with other Spies, to view the Land of <hi>Canaan, Numb.</hi> 13. And went out of the Wil<g ref="char:EOLhyphen"/>derneſs of <hi>Zin</hi> and <hi>Param</hi> to <hi>Rechob</hi> in <hi>Galile,</hi> one hundred and forty miles. 3. From thence to <hi>Hamath</hi> in <hi>Syria,</hi> one hundred and eighty miles. 4. From thence to <hi>Hebron,</hi> three hundred and four miles. 5. From thence they returned back to <hi>Cades-Barnea,</hi> twenty miles. 6. Thence to <hi>Ezean-Gaber,</hi> and thence to <hi>Jahza,</hi> four hundred ſixty four miles 7. From thence through two Kingdoms to Mount <hi>Libanus,</hi> eighty miles. 8. From thence they returned to the Land of <hi>Sittim,</hi> that lay by the Hill <hi>Piſgah,</hi> in the Field of the <hi>Moabites,</hi> eighty miles. 9. From thence through the River <hi>Jordan</hi> to <hi>Gilgal,</hi> ſix miles, <hi>Num.</hi> 21. <hi>Joſh.</hi> 4.5. 10. Thence to <hi>Jericho,</hi> two miles: This Town he aſſailed and took, <hi>Joſh.</hi> 6. 11. Thence to <hi>Ai,</hi> which he took and burnt, <hi>Joſh.</hi> 7.8. 12. Thence to <hi>Gilgal,</hi> four miles, upon the Hill of <hi>Ebal</hi> he built an Altar, <hi>Joſh.</hi> 8. 13. Thence to <hi>Gibcon,</hi> twelve miles, there the Sun ſtood ſtill during the Battel againſt the three Kings, <hi>Joſh.</hi> 10. 14. Thence to <hi>Aſalon</hi> two miles; there the Moon ſtood ſtill, <hi>Joſh.</hi> 10. 15. Thence to <hi>Aſeka,</hi> four miles; where it hailed upon <hi>Iſrael</hi>'s Enemies, <hi>Joſh.</hi> 10. 16. Thence returned unto the Camp at <hi>Gilgal,</hi> twenty miles; <hi>Joſh.</hi> 10. 17. Thence to <hi>Makeda;</hi> there he hanged the five Kings, <hi>Joſh.</hi> 10. 18. Thence to <hi>Libna,</hi> two miles, and took it, <hi>Joſh.</hi> 10. 19. Thence to <hi>Lachiſh,</hi> eight miles. 20. Thence to <hi>Eglon,</hi> eight miles, <hi>Joſh.</hi> 10. 21. Thence to <hi>Hebron,</hi> ſixteen miles, <hi>Joſh.</hi> 10. 22. Thence to <hi>Debir,</hi> a mile. 23. After that <hi>Joſhua</hi> Conquered all <hi>Judaea</hi> towards the South, bordering Eaſtward upon the Red Sea, Southward upon <hi>Cades-Burnea,</hi> Weſtward upon <hi>Aſdod</hi> and <hi>Gaza,</hi> and Northward upon <hi>Gibeon</hi> and <hi>Gilgal,</hi> which Circuit containing one hundred fifty and ſix miles. 24. From <hi>Gilgal, Joſhua</hi> went out with his Army two and twenty miles to the River <hi>Merom,</hi> where he ſlew the reſt of the Kings of the <hi>Canaanites, Joſh.</hi> 11. 25. Thence <hi>Joſhua</hi> chaſed his Enemies to <hi>Sidon,</hi> which was ſix hundred and twelve miles, <hi>Joſh.</hi> 11. 26. Thence to <hi>Hazor</hi> thirty miles, which Town he burnt, <hi>Joſh.</hi> 11. 27. After that <hi>Joſhua</hi> won all the Towns in the <hi>Holy Land,</hi> Northward, in <hi>Samaria, Galilea,</hi> from <hi>Gibcon</hi> to Mount <hi>Libanus,</hi> and from the River <hi>Jordan</hi> to the Great Sea, which in circuit contains two hundred eighty miles. 28. Thence returned to <hi>Gilgal,</hi> threeſcore and twelve miles, <hi>Joſh.</hi> 14.15. 29. Thence to <hi>Shiloh,</hi> twelve miles, <hi>Joſh.</hi> 18. 30. Thence to <hi>Timnah Sera,</hi> eight miles, <hi>Joſh.</hi> 19. 31. Thence to <hi>Sichem,</hi> forty miles, <hi>Joſh.</hi> 24. 32. Thence to <hi>Timnah Sera</hi> again, forty miles, where he died and was buried, <hi>Joſh.</hi> 24. So all the Travels of Prince <hi>Joſhua</hi> were two thouſand three hundred fourſcore and twelve miles.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Miller</hi> at the Gilded <hi>Acorn</hi> in St. <hi>Paul's</hi> Church-Yard, near the little North-Door, 1680.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>At which Place you may be furniſhed with moſt ſorts of bound or ſtitched Books, as Acts of Parliament, Proclamations, Speeches, Declarations, Letters, Orders, Commiſſions, Articles: As alſo Books of Divinity, Church-Government, Sermons, and moſt ſorts of Hiſtories, Poetry, Plays, and ſuch like.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
